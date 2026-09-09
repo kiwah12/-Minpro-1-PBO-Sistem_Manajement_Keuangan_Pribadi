@@ -53,7 +53,7 @@ Sistem akan menghitung dan menampilkan beberapa informasi, yaitu:
    
 2. **Total Pengeluaran**, yaitu jumlah keseluruhan uang yang keluar.
    
-3.**Saldo**, yaitu hasil perhitungan dari total pemasukan dikurangi total pengeluaran.
+3. **Saldo**, yaitu hasil perhitungan dari total pemasukan dikurangi total pengeluaran.
 
 4. **Dengan menu ini**, pengguna dapat mengetahui kondisi keuangan berdasarkan transaksi yang telah dicatat.
 
