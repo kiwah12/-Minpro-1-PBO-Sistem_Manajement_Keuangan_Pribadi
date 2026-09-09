@@ -57,7 +57,7 @@ Sistem akan menghitung dan menampilkan beberapa informasi, yaitu:
 
 4. **Dengan menu ini**, pengguna dapat mengetahui kondisi keuangan berdasarkan transaksi yang telah dicatat.
 
-**D. Keluar Program**
+### **D. Keluar Program**
 
 Jika pengguna memilih menu **0. Keluar** pada Menu Utama, sistem akan menampilkan pesan bahwa program selesai dan program akan berhenti.
 
