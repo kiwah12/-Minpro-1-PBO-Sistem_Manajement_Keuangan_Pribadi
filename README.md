@@ -97,4 +97,4 @@ Sistem akan menampilkan Total Pemasukan, Total Pengeluaran, dan Saldo.
 
 <img width="702" height="242" alt="Screenshot 2026-09-08 231932" src="https://github.com/user-attachments/assets/c6427ab7-9d43-4003-ad30-03bf81a585aa" />
 
-Gambar 4. Tampilan Ringkasan Keuangan
+**Gambar 4. Tampilan Ringkasan Keuangan**
