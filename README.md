@@ -1,4 +1,4 @@
-# **STEM MANAJEMENT KEUANGAN PRIBADI**
+# **SISTEM MANAJEMENT KEUANGAN PRIBADI**
 
 ## **1. Deskripsi Singkat Program**
    
